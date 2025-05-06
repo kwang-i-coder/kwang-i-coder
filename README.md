@@ -3,7 +3,7 @@
 ### Projects
 - **🚇 Seoul Metro Line 2 – Passenger Traffic Analysis**
 - **🧪 Crazy Scientist - Unity C# Game**
-  Unity-based 2D action game with modular C# scripts (Player, Enemy, Bullet, Gameplay, Helper)
+  Unity-based 2D action game with modular C# scripts
 
 ### Experiences
 - **KyungHee Univ SW College, Student Council (2022)**
