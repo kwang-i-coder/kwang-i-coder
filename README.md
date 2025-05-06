@@ -1,4 +1,4 @@
-## Hi, I'm a university student majoring in **Software Convergence**
+  [![header](https://capsule-render.vercel.app/api?type=venom&color=6884b9&text=HoeKwang%&fontColor=ffffff&height=240)](#)
 
 ### Projects
 - **🚇 Seoul Metro Line 2 – Passenger Traffic Analysis**
